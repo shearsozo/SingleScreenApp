@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="slogan">Be in Demand</string>
+    <string name="description">Learn at your own pace</string>
+    <string name="website">Udacity.com</string>
+    <string name="address">2465 Latham St Mountain View CA 94043</string>
+    <string name="phone">650-555-5555</string>
+</resources>
